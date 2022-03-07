@@ -2,7 +2,7 @@
 
 - 👨‍🚀 Estou atualmente estudando desenvolvimento full stack Java
 - 🧑‍🔬 Sou alune de Ciência e Tec na UFABC
-- 💚 Eu são não binário e utilizo todos os pronomes!
+- 💚 Eu sou não binárie e utilizo todos os pronomes!
 
 <div align="center">
   <a href="https://github.com/santosnicolle">
