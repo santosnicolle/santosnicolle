@@ -28,7 +28,7 @@
   
 <div>
   <a href="https://instagram.com/melodicdespair" target="_blank"><img height= "28em" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nicolless" target="_blank"><img height="28em" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/santosnicolle/" target="_blank"><img height="28em" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" target="_blank"></a>
   <a href="https://open.spotify.com/user/nicollxss?si=4309b8f7a1654b94" target="_blank"><img height="28em" src="https://cdn-icons-png.flaticon.com/128/174/174872.png" target="_blank"></a>
   
  ![Snake animation](https://github.com/santosnicolle/santosnicolle/blob/output/github-contribution-grid-snake.svg)
