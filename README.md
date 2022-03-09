@@ -1,7 +1,7 @@
 ## Olá, aqui quem fala é Nicolle!
 
 - 👨‍🚀 Estou atualmente estudando desenvolvimento full stack Java na Generation Brasil
-- 🧑‍🔬 Sou alune de Ciência e Tec na UFABC
+- 🧑‍🔬 Sou alune do BC&T na UFABC caminhando para os pós-BI em Neurociência e Ciência da Computação
 - 💚 Eu sou não binárie e utilizo todos os pronomes!
 
 <div align="center">
