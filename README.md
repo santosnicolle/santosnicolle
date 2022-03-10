@@ -19,8 +19,6 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="MySQL-Icon" height="30" width="80" src="https://cdn.discordapp.com/attachments/949444480296157266/950690584295772160/58481057cef1014c0b5e4951.png">
   <img align="center" alt="Java-Icon" height="40" width="80" src="https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo.png">
-  <img align="center" alt="HTML-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Nicolls" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/949444480296157266/950522668359229440/IMG_20220307_193638-ANIMATION.gif">
 </div>
   
