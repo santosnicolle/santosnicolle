@@ -27,7 +27,7 @@
 ##
   
 <div>
-  <a href="https://instagram.com/melodicdespair" target="_blank"><img height= "28em" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/stringsantos/" target="_blank"><img height= "28em" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/santosnicolle/" target="_blank"><img height="28em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/stringsantos" target="_blank"><img height="28em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/nicollxss?si=4309b8f7a1654b94" target="_blank"><img height="28em" src="https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white" target="_blank"></a>
