@@ -1,8 +1,8 @@
 ## Olá, aqui quem fala é Nicolle!
 
-- 👨‍🚀 Estou atualmente estudando desenvolvimento full stack Java na Generation Brasil
-- 🧑‍🔬 Sou alune do BC&T na UFABC caminhando para os pós-BI em Neurociência e Ciência da Computação
-- 💚 Eu sou não binárie e utilizo todos os pronomes!
+- Estou atualmente estudando desenvolvimento full stack Java na Generation Brasil
+- Sou alune do BC&T na UFABC caminhando para os pós-BI em Neurociência e Ciência da Computação
+- Eu sou não binárie e utilizo todos os pronomes!
 
 <div align="center">
 
@@ -17,18 +17,20 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="MySQL-Icon" height="30" width="80" src="https://cdn.discordapp.com/attachments/949444480296157266/950690584295772160/58481057cef1014c0b5e4951.png">
-  <img align="center" alt="Java-Icon" height="40" width="80" src="https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo.png">
-  <img align="center" alt="Spring-Icon" height="40" width="40" src="https://1.bp.blogspot.com/-trIS3Iz94SE/YIr3iwBC23I/AAAAAAAAtVQ/oieBThHJU3wPJkGOATDSvi6RySwlowM5ACLcBGAsYHQ/s452/spring-logo.png">
+  <img align="center" alt="MySQL-Icon" height="30" width="100" & border-radius="10px;" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">
+  <img align="center" alt="Java-Icon" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
+  <img align="center" alt="Spring-Icon" height="30" width="90" & border-radius="10px;" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
+  <img align="center" alt="Heroku-Icon" height="30" width="90" & border-radius="10px;" style="border-radius=10px" src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white">
   <img align="right" alt="Nicolls" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/Z96Ax1zh5aSsHczGve/giphy.gif">
 </div>
   
 ##
   
 <div>
-  <a href="https://instagram.com/melodicdespair" target="_blank"><img height= "28em" src="https://cdn-icons-png.flaticon.com/128/174/174855.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/santosnicolle/" target="_blank"><img height="28em" src="https://cdn-icons-png.flaticon.com/128/174/174857.png" target="_blank"></a>
-  <a href="https://open.spotify.com/user/nicollxss?si=4309b8f7a1654b94" target="_blank"><img height="28em" src="https://cdn-icons-png.flaticon.com/128/174/174872.png" target="_blank"></a>
+  <a href="https://instagram.com/melodicdespair" target="_blank"><img height= "28em" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/santosnicolle/" target="_blank"><img height="28em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/stringsantos" target="_blank"><img height="28em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/user/nicollxss?si=4309b8f7a1654b94" target="_blank"><img height="28em" src="https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white" target="_blank"></a>
   
  ![Snake animation](https://github.com/santosnicolle/santosnicolle/blob/output/github-contribution-grid-snake.svg)
   
