@@ -20,7 +20,6 @@
     <img align="center" alt="JavaScript-Icon" height="30" width="100" & border-radius="10px;" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
     <img align="center" alt="CSS3-Icon" height="30" width="90" & border-radius="10px;" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
     <img align="center" alt="HTML5-Icon" height="30" width="90" & border-radius="10px;" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-    <img align="right" alt="mirabel-gif" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/Z96Ax1zh5aSsHczGve/giphy.gif">
 </div>
   
 ##
