@@ -13,7 +13,7 @@
 > or send me an e-mail: santosnicolledev@gmail.com
 ```
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/santosnicolle">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=santosnicolle&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosnicolle&layout=compact&langs_count=7&theme=dark"/>
