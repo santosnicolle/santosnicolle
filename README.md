@@ -1,10 +1,16 @@
 ## Hello, how it's going?
 
-- I'm curently studying web development with Java
-- I'm also a bachelor student in Science and Technoly at Federal University of ABC
-- I’m looking to collaborate on projects open source
-- You can use all pronouns with me! 😁
-- The easiest way to contact me is with my socials that you can check bellow but you can also send me an e-mail here: santosnicolledev@gmail.com 📩
+<img align="right" height="200" style="margin-left: 25px" src="https://media.giphy.com/media/Z96Ax1zh5aSsHczGve/giphy.gif"/>
+
+```diff
+> Nicolle Santos 🍄
+
+> I'm curently studying web development with Java
+> I'm also a bachelor student in Science and Technoly at Federal University of ABC
+> I’m looking to collaborate on projects open source
+> You can use all pronouns with me!
+> The easiest way to contact me is with my socials that you can check bellow
+```
 
 <div align="center">
   <a href="https://github.com/santosnicolle">
