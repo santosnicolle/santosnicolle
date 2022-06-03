@@ -1,21 +1,22 @@
-## Hello, how it's going?
+## hello, how it's going?
 
 <img align="right" height="200" style="margin-left: 25px" src="https://media.giphy.com/media/Z96Ax1zh5aSsHczGve/giphy.gif"/>
 
 ```diff
-> Nicolle Santos 🍄
+> nicolle santos 🍄
 
-> I'm curently studying web development with Java
-> I'm also a bachelor student in Science and Technoly at Federal University of ABC
-> I’m looking to collaborate on projects open source
-> You can use all pronouns with me!
-> The easiest way to contact me is with my socials that you can check bellow
+> i'm curently studying web development with Java
+> i'm also a bachelor student in Science and Technoly at Federal University of ABC
+> i’m looking to collaborate on projects open source
+> you can use all pronouns with me!
+> the easiest way to contact me is with my socials that you can check bellow
+> or send me an e-mail: santosnicolledev@gmail.com
 ```
 
 <div align="center">
   <a href="https://github.com/santosnicolle">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=santosnicolle&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosnicolle&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=santosnicolle&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosnicolle&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
