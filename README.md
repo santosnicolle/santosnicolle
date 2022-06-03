@@ -1,6 +1,6 @@
 ## hello, how it's going?
 
-<img align="right" height="200" style="margin-left: 25px" src="https://media.giphy.com/media/Z96Ax1zh5aSsHczGve/giphy.gif"/>
+<img align="right" height="200" src="https://media.giphy.com/media/Z96Ax1zh5aSsHczGve/giphy.gif"/>
 
 ```diff
 > nicolle santos 🍄
