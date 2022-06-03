@@ -6,7 +6,7 @@
 > nicolle santos 🍄
 
 > i'm curently studying web development with Java
-> i'm also a bachelor student in Science and Technoly at Federal University of ABC
+> i'm also a bachelor student in Science and Technology at Federal University of ABC
 > i’m looking to collaborate on projects open source
 > you can use all pronouns with me!
 > the easiest way to contact me is with my socials that you can check bellow
