@@ -13,12 +13,12 @@
 > or send me an e-mail: santosnicolledev@gmail.com
 ```
 
-<div align="left">
+<div>
   <a href="https://github.com/santosnicolle">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=santosnicolle&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosnicolle&layout=compact&langs_count=7&theme=dark"/>
+  <img align="left" height="120em" src="https://github-readme-stats.vercel.app/api?username=santosnicolle&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosnicolle&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+
   <div style="display: inline_block"><br>
   <img align="center" alt="MySQL-Icon" height="30" width="100" & border-radius="10px;" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">
   <img align="center" alt="Java-Icon" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
@@ -30,7 +30,6 @@
 </div>
   
 ##
-  
   
 <div>
   <a href="https://www.linkedin.com/in/santosnicolle/" target="_blank"><img height="28em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
