@@ -15,8 +15,8 @@
 
 <div>
   <a href="https://github.com/santosnicolle">
-  <img align="left" height="130em" style="margin-left: 25px" src="https://github-readme-stats.vercel.app/api?username=santosnicolle&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosnicolle&layout=compact&langs_count=7&theme=dark"/>
+  <img align="left" height="120em" style="margin-left: 25px" src="https://github-readme-stats.vercel.app/api?username=santosnicolle&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosnicolle&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   <div style="display: inline_block"><br>
