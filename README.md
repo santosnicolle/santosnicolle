@@ -18,16 +18,6 @@
   <img align="left" height="120em" style="margin-left: 25px" src="https://github-readme-stats.vercel.app/api?username=santosnicolle&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosnicolle&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-  <div style="display: inline_block"><br>
-  <img align="center" alt="MySQL-Icon" height="30" width="100" & border-radius="10px;" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">
-  <img align="center" alt="Java-Icon" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white">
-  <img align="center" alt="Spring-Icon" height="30" width="90" & border-radius="10px;" src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
-    <img align="center" alt="TypeScript-Icon" height="30" width="100" & border-radius="10px;" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
-    <img align="center" alt="JavaScript-Icon" height="30" width="100" & border-radius="10px;" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">
-    <img align="center" alt="CSS3-Icon" height="30" width="90" & border-radius="10px;" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-    <img align="center" alt="HTML5-Icon" height="30" width="90" & border-radius="10px;" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-</div>
   
 ##
   
