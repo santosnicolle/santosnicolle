@@ -26,6 +26,4 @@
   <a href="https://twitter.com/stringsantos" target="_blank"><img height="28em" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/user/nicollxss?si=4309b8f7a1654b94" target="_blank"><img height="28em" src="https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white" target="_blank"></a>
   
- ![Snake animation](https://github.com/santosnicolle/santosnicolle/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
